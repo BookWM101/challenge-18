@@ -1,0 +1,22 @@
+{
+    "name": "social-network-api",
+    "version": "1.0.0",
+    "description": "A social network API using Express.js, MongoDB, and Mongoose",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js",
+      "test": "echo \"No tests specified\" && exit 0"
+    },
+    "dependencies": {
+      "body-parser": "^1.20.1",
+      "express": "^4.18.2",
+      "mongoose": "^7.8.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.22"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  

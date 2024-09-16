@@ -1,0 +1,33 @@
+thoughts
+
+{
+    "thoughtTitle": "1",
+    "thoughtText": "hello",
+    "username": "kayla"
+}
+
+
+
+reactions
+
+{
+	"reactions": [ {
+			"reactionBody": "hullo",
+			"username": "jim"
+	}]
+}
+
+
+
+user
+
+{
+    "username": "kayla",
+    "email": "123@gmail.com"
+}
+
+
+{
+    "username": "jack",
+    "email": "222@gmail.com"
+}
